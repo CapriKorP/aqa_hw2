@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/3ndp0g897e7bvsgf/branch/master?svg=true)](https://ci.appveyor.com/project/gitkornienkov/aqa-hw2/branch/master)
 
+Задача №3 [тут](https://github.com/CapriKorP/aqa_hw2_task_3)
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
